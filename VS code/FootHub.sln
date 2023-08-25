@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FootHub", "FootHub\FootHub.csproj", "{F02A58AF-FCFD-4351-89BF-1D154EA76DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02A58AF-FCFD-4351-89BF-1D154EA76DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A58AF-FCFD-4351-89BF-1D154EA76DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A58AF-FCFD-4351-89BF-1D154EA76DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A58AF-FCFD-4351-89BF-1D154EA76DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8077B2-BAAD-4AD1-9AD1-8FF81491B18E}
+	EndGlobalSection
+EndGlobal
